@@ -16,8 +16,8 @@
 
 [Rainmeter雨滴论坛：https://bbs.rainmeter.cn/thread-115305-1-1.html](https://bbs.rainmeter.cn/thread-115305-1-1.html)
 
-![c](http://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/github_project_img/gundam_rainmter/12.jpg)
+![c](https://github.com/lingme/Picture_Bucket/raw/master/Gundam_Rainmeter_img/index_1.jpg)
 
-![c](http://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/github_project_img/gundam_rainmter/%E8%AF%B4%E6%98%8E3.jpg)
+![c](https://github.com/lingme/Picture_Bucket/raw/master/Gundam_Rainmeter_img/index_2.jpg)
 
-![](http://my-blog-oss.oss-cn-hangzhou.aliyuncs.com/github_project_img/gundam_rainmter/123.jpg)
+![](https://github.com/lingme/Picture_Bucket/raw/master/Gundam_Rainmeter_img/index_3.jpg)
