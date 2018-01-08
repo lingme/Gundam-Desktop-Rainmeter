@@ -2,7 +2,6 @@
 ---
 >**高达OO Rainmeter桌面组件**
 
-#####环境依赖
 * 系统：Windows XP 以上
 * 内存：128MB 可用
 * CPU：双核 1 GHz
